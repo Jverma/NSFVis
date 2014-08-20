@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase I: ACCORDION HEALTH ASSISTANT: PREDICTIVE ENGINE FOR PERSONALIZATION OF HEALTHCARE COSTS</AwardTitle>
+    <AwardEffectiveDate>07/01/2014</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2014</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jesus Soriano Molla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to empower individuals to make financially sound healthcare decisions; helping them navigate the otherwise convoluted and confusing healthcare cost landscape by enabling them to manage, plan, and better understand healthcare expenditures and budget for upcoming and future costs. This project takes a data-driven approach, developing sophisticated, innovative, and large-scale data mining and machine learning algorithms to automatically learn a plethora of cost patterns from over a 100 million healthcare records.&lt;br/&gt;&lt;br/&gt;The proposed project will provide a user-friendly, engaging interface for individuals to manage and understand healthcare expenses for themselves and their families. By bringing together ideas in data mining, machine learning and natural language processing to enable our technology, we make fundamental progress in research and development in the field of healthcare informatics. The anticipated results are the development of an algorithmic suite that can be used to model and predict the nature of healthcare costs across regional boundaries and demographic groups in the United States.</AbstractNarration>
+    <MinAmdLetterDate>06/03/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/03/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1416136</AwardID>
+    <Investigator>
+      <FirstName>Sriram</FirstName>
+      <LastName>Vishwanath</LastName>
+      <EmailAddress>sriramuniverse@gmail.com</EmailAddress>
+      <StartDate>06/03/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Saltare Systems LLC</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787042607</ZipCode>
+      <PhoneNumber>6508234072</PhoneNumber>
+      <StreetAddress>2607 Euclid Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>5371</Code>
+      <Text>SMALL BUSINESS PHASE I</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8018</Code>
+      <Text>Smart and Connected Health</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8023</Code>
+      <Text>Health Care Enterprise Systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8032</Code>
+      <Text>Software Services and Applications</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8042</Code>
+      <Text>Health and Safety</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

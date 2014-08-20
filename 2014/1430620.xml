@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Participant Support for the 2014 NSF CyberBridges Workshop</AwardTitle>
+    <AwardEffectiveDate>03/15/2014</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2015</AwardExpirationDate>
+    <AwardAmount>99282</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Almadena Y. Chtchelkanova</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a proposal for participant support for the third CyberBridges CAREER PI workshop. The goal of this 1.5 day workshop in Arlington, VA is developing the next generation of cyberinfrastructure faculty for computational and data-enabled science and engineering. The workshop brings together the community of CAREER awardees in cyberinfrastructure with the aim of (i) facilitating networking and discussion; (ii) providing a forum to facilitate discovery of new synergies and research connections; (iii) provide inspiration through interaction with keynote speakers in selected areas. Funding will be used for attendee travel, support staff and faculty time, and facility costs.</AbstractNarration>
+    <MinAmdLetterDate>03/05/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/05/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1430620</AwardID>
+    <Investigator>
+      <FirstName>Thomas</FirstName>
+      <LastName>Hacker</LastName>
+      <EmailAddress>tjhacker@purdue.edu</EmailAddress>
+      <StartDate>03/05/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Suzanne</FirstName>
+      <LastName>Shontz</LastName>
+      <EmailAddress>sms867@msstate.edu</EmailAddress>
+      <StartDate>03/05/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Mississippi State University</Name>
+      <CityName>MISSISSIPPI STATE</CityName>
+      <ZipCode>397629662</ZipCode>
+      <PhoneNumber>6623257404</PhoneNumber>
+      <StreetAddress>PO Box 6156</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Mississippi</StateName>
+      <StateCode>MS</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7231</Code>
+      <Text>CYBERINFRASTRUCTURE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

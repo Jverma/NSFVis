@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>AGU Chapman Conference Low-Frequency Waves in Space Plasmas; September 1-5, 2014</AwardTitle>
+    <AwardEffectiveDate>08/01/2014</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2015</AwardExpirationDate>
+    <AwardAmount>20000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020200</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Raymond J. Walker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This is a proposal to support student and young researcher travel to the AGU Chapman Conference on Low-Frequency (ULF, ELF and VLF) Waves in Space Plasmas. Chapman Conferences are topical meetings sponsored by the American Geophysical Union that are designed to provide opportunities for detailed scientific discussion that is not possible at large meetings such as the Fall AGU meeting. Approximately 130 scientists are expected to attend the conference. Approximately 20% of the attendees will be students and young researchers just beginning their careers. &lt;br/&gt;&lt;br/&gt;The objective of the conference will be to develop a deeper understanding of the fundamental physics of low-frequency waves, including the generation and propagation mechanisms and the interaction of the waves with magnetospheric thermal plasma and energetic particles. The latter is important for space weather studies.</AbstractNarration>
+    <MinAmdLetterDate>08/05/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/05/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1440091</AwardID>
+    <Investigator>
+      <FirstName>Brenda</FirstName>
+      <LastName>Weaver</LastName>
+      <EmailAddress>bweaver@agu.org</EmailAddress>
+      <StartDate>08/05/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>American Geophysical Union</Name>
+      <CityName>WASHINGTON</CityName>
+      <ZipCode>200099123</ZipCode>
+      <PhoneNumber>2024626900</PhoneNumber>
+      <StreetAddress>2000 FLORIDA AVE NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1523</Code>
+      <Text>SOLAR-TERRESTRIAL</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5750</Code>
+      <Text>MAGNETOSPHERIC PHYSICS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>OTHR</Code>
+      <Text>OTHER RESEARCH OR EDUCATION</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID: Wave, Surge, and Wind Hazard and Damage from Super Typhoon Haiyan</AwardTitle>
+    <AwardEffectiveDate>03/01/2014</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2015</AwardExpirationDate>
+    <AwardAmount>30000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kishor Mehta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Rapid Response Grant (RAPID) project is to collect perishable damage, wave, storm surge, debris, and wind data from Super Typhoon Haiyan that made landfall in Philippines. Super Typhoon Haiyan may have been the strongest land falling tropical cyclone in recorded history. The data on wave, surge, and debris are characteristics of the storm and not highly dependent on the structures. Wind damage in the town of Tacloban and island of Samar sustained catastrophic wind and wave/surge damage. The Principal investigator will work in conjunction with representatives of Japan and Philippines Engineering Societies in collection of data.&lt;br/&gt;&lt;br/&gt;Because Super Typhoon Haiyan was (probably) the strongest recorded land falling storm in history, it represents one end of the envelope for design purposes. For this reason, ascertaining both the hazard and damage levels will give a good estimate of the types and quantities of damage, and failure mechanisms that might occur in the United States. Very strong low frequency wave/surge motions were noted during this storm with resulting catastrophic damage. Since these loadings do not exist in present standards, an improved understanding of the generation mechanisms, hazard levels, and structural damage will help to improve predictions of loading climate, and can be used to validate damage models. Documentation of damage of commercial buildings may permit assessment of wind speed intensity through reverse engineering.</AbstractNarration>
+    <MinAmdLetterDate>02/24/2014</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/24/2014</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1426445</AwardID>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Kennedy</LastName>
+      <EmailAddress>Andrew.B.Kennedy.117@nd.edu</EmailAddress>
+      <StartDate>02/24/2014</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Notre Dame</Name>
+      <CityName>NOTRE DAME</CityName>
+      <ZipCode>465565708</ZipCode>
+      <PhoneNumber>5746317432</PhoneNumber>
+      <StreetAddress>940 Grace Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1637</Code>
+      <Text>HAZARD MIT &amp; STRUCTURAL ENG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>036E</Code>
+      <Text>CIVIL INFRASTRUCTURE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>039E</Code>
+      <Text>STRUCTURAL SYSTEMS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>040E</Code>
+      <Text>Haz mitigation of structural sys</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>041E</Code>
+      <Text>HAZARD AND DISASTER REDUCTION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>042E</Code>
+      <Text>HAZARD AND DISASTER RESPONSE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1057</Code>
+      <Text>CIS BASE RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>CVIS</Code>
+      <Text>CIVIL INFRASTRUCTURE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>
