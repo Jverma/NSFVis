@@ -1,8 +1,5 @@
 NSFVis
 ======
-
-Visualizing NSF grants
-
 This project deals with the statistical analysis and visualization of the NSF gransts. The data can be downloaded from  http://nsf.gov/awardsearch/download.jsp
 
 This project is still work in progress, more information will be added soon! 
